@@ -1,3 +1,1 @@
-$(document).ready(function () {
-    asdasdasdasdasd
-});
+654654654
